@@ -4,7 +4,7 @@
 It presents comparisons of **defense budget, active military personnel, tanks, and aircraft** across different countries.
 
 ## 🚀 Preview
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](militarypower2023dashboard.png)
 
 
 ## 🌐 Link
